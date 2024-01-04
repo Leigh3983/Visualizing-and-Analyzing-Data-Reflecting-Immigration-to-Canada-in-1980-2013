@@ -1,1 +1,1 @@
-# Visualizing-and-Analyzing-Data-Reflecting-Immigration-to-Canada-in-1980-2013
+In this project, I use various visualization techniques such as pie charts, box plots, scatter plots and bubble plots in conjunction with the Matplotlib library to visualize different features of the data showing immigration from many countries to Canada during 1980-2013, and forming an analysis on what was happening during this time that may have led to different interesting trends in the data. 
